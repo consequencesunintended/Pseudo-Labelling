@@ -1,5 +1,7 @@
-# Pseudo-Labelling
+# Pseudo-Labelling (failed attempt)
 Pseudo Labelling on MNIST dataset
+
+This was my first attempt on implementing semi supervised learning through pseudo labelling, which proved to be problematic and I didn't achieve the desired improvement in my model
 
 References:
 
