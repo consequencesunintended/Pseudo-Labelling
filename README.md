@@ -1,7 +1,7 @@
-# Pseudo-Labelling (failed attempt)
+# Pseudo-Labelling
 Pseudo Labelling on MNIST dataset
 
-This was my first attempt on implementing semi supervised learning through pseudo labelling, which proved to be problematic and I didn't achieve the desired improvement in my model
+This was my first attempt on implementing semi supervised learning through pseudo labelling, which proved to be problematic and I didn't achieve the desired improvement in my model. They are two different jupyter notebook files, one achieves a maximum 3 percent of increase in accuracy and the other one seems to be failing to achieve any improvements 
 
 References:
 
