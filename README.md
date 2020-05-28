@@ -9,4 +9,5 @@ References:
 
 2 - Naive semi-supervised deep learning using pseudo-label, Zhun Li, ByungSoo Ko & Ho-Jin Choi https://link.springer.com/article/10.1007/s12083-018-0702-9
 
-3 - The Illustrated FixMatch for Semi-Supervised Learning https://amitness.com/2020/03/fixmatch-semi-supervised/
+3 - The Illustrated FixMatch for Semi-Supervised Learning 
+https://amitness.com/2020/03/fixmatch-semi-supervised/
