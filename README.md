@@ -1,6 +1,6 @@
+# Pseudo-Labelling
 <a href="https://www.buymeacoffee.com/banterless" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
 
-# Pseudo-Labelling
 Pseudo Labelling on MNIST dataset
 
 They are three different jupyter notebook files, one seems to be failing to achieve any improvements (Pseudo-Labelling-MNIST-1st), the second one achieves a maximum 7 percent increase of accuracy (Pseudo-Labelling-MNIST-2nd) and the third model, which relies on augemntation, an increase of 14 percent (Pseudo-Labelling-MNIST-3rd)
