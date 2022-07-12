@@ -3,7 +3,7 @@
 
 Pseudo Labelling on MNIST dataset
 
-They are three different jupyter notebook files, one seems to be failing to achieve any improvements (Pseudo-Labelling-MNIST-1st), the second one achieves a maximum 7 percent increase of accuracy (Pseudo-Labelling-MNIST-2nd) and the third model, which relies on augemntation, an increase of 14 percent (Pseudo-Labelling-MNIST-3rd)
+They are three different jupyter notebook files, one seems to be failing to achieve any improvements (Pseudo-Labelling-MNIST-1st), the second one achieves a maximum of 7 percent increase in accuracy (Pseudo-Labelling-MNIST-2nd) and the third model, which relies on augemntation, an increase of 14 percent (Pseudo-Labelling-MNIST-3rd)
 
 <table style="width:100%">
    <tr>
